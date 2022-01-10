@@ -1,0 +1,2 @@
+export const SET_CLIMATE_STATUS = "SET_CLIMATE_STATUS"
+export const SET_ERROR = "SET_ERROR"
